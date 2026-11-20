@@ -1,0 +1,2268 @@
+[
+  {
+    "id": "color-tools",
+    "name": "Color Tools",
+    "tools": [
+      {
+        "id": "color-blindness-simulator",
+        "name": "Color Blindness Simulator"
+      },
+      {
+        "id": "color-contrast-checker",
+        "name": "Color Contrast Checker"
+      },
+      {
+        "id": "color-converter",
+        "name": "Color Converter"
+      },
+      {
+        "id": "color-extractor",
+        "name": "Color Extractor"
+      },
+      {
+        "id": "color-generator",
+        "name": "Color Generator"
+      },
+      {
+        "id": "color-mixer",
+        "name": "Color Mixer"
+      },
+      {
+        "id": "color-names",
+        "name": "Color Names Finder"
+      },
+      {
+        "id": "css-filter-generator",
+        "name": "CSS Filter Generator"
+      },
+      {
+        "id": "css-gradient-generator",
+        "name": "CSS Gradient Generator"
+      },
+      {
+        "id": "gradient-palette-builder",
+        "name": "Gradient Palette Builder"
+      },
+      {
+        "id": "image-palette-extractor",
+        "name": "Image Palette Extractor"
+      },
+      {
+        "id": "oklch-color-converter",
+        "name": "OKLCH Color Converter"
+      },
+      {
+        "id": "oklch-gamut-gradient-studio",
+        "name": "OKLCH Gamut Gradient & Harmony Studio"
+      },
+      {
+        "id": "palette-accessibility-checker",
+        "name": "Palette Accessibility Checker"
+      },
+      {
+        "id": "random-palette-generator",
+        "name": "Random Palette Generator"
+      },
+      {
+        "id": "color-shades-generator",
+        "name": "Shades & Tints Generator"
+      }
+    ]
+  },
+  {
+    "id": "design-tools",
+    "name": "Design Tools",
+    "tools": [
+      {
+        "id": "aspect-ratio-calculator",
+        "name": "Aspect Ratio Calculator"
+      },
+      {
+        "id": "border-radius-generator",
+        "name": "Border Radius Generator"
+      },
+      {
+        "id": "box-shadow-generator",
+        "name": "Box Shadow Generator"
+      },
+      {
+        "id": "css-grid-generator",
+        "name": "CSS Grid Generator"
+      },
+      {
+        "id": "css-spring-physics-generator",
+        "name": "CSS Spring Physics Generator"
+      },
+      {
+        "id": "cubic-bezier-generator",
+        "name": "Cubic Bezier / Easing Generator"
+      },
+      {
+        "id": "dummy-avatar-generator",
+        "name": "Dummy Avatar Generator"
+      },
+      {
+        "id": "flexbox-playground",
+        "name": "Flexbox Playground"
+      },
+      {
+        "id": "mesh-gradient-generator",
+        "name": "Mesh Gradient Generator"
+      },
+      {
+        "id": "og-image-generator",
+        "name": "OG Image Generator"
+      },
+      {
+        "id": "pixel-art-sprite-studio",
+        "name": "Pixel Art Sprite Studio"
+      },
+      {
+        "id": "px-to-rem",
+        "name": "Px to Rem"
+      },
+      {
+        "id": "shadcn-theme-generator",
+        "name": "shadcn/ui Theme Generator"
+      },
+      {
+        "id": "svg-placeholder-generator",
+        "name": "SVG Placeholder Generator"
+      },
+      {
+        "id": "tailwind-theme-builder",
+        "name": "Tailwind Theme Builder"
+      },
+      {
+        "id": "font-anatomy-variable-lab",
+        "name": "Typography Anatomy & Variable Font Lab"
+      }
+    ]
+  },
+  {
+    "id": "data-processing",
+    "name": "Data Processing",
+    "tools": [
+      {
+        "id": "base64",
+        "name": "Base64 Toolbox"
+      },
+      {
+        "id": "csharp-to-vbnet-converter",
+        "name": "C# to VB.NET Converter"
+      },
+      {
+        "id": "csv-data-viewer",
+        "name": "CSV Data Viewer"
+      },
+      {
+        "id": "csv-to-chart",
+        "name": "CSV to Chart"
+      },
+      {
+        "id": "csv-to-json",
+        "name": "CSV to JSON Converter"
+      },
+      {
+        "id": "csv-to-markdown-converter",
+        "name": "CSV to Markdown Converter"
+      },
+      {
+        "id": "csv-to-sql",
+        "name": "CSV to SQL Converter"
+      },
+      {
+        "id": "db-migration-script-generator",
+        "name": "DB Migration Script Generator"
+      },
+      {
+        "id": "diff-checker",
+        "name": "Diff Checker"
+      },
+      {
+        "id": "email-normalizer",
+        "name": "Email Normalizer"
+      },
+      {
+        "id": "ephemeris-calculator",
+        "name": "Ephemeris Calculator"
+      },
+      {
+        "id": "er-diagram-generator",
+        "name": "ER Diagram Generator"
+      },
+      {
+        "id": "graphql-formatter",
+        "name": "GraphQL Formatter & Validator"
+      },
+      {
+        "id": "gzip-tools",
+        "name": "GZip Compressor"
+      },
+      {
+        "id": "html-encoder-decoder",
+        "name": "HTML Encoder/Decoder"
+      },
+      {
+        "id": "html-to-text-converter",
+        "name": "HTML to Text Converter"
+      },
+      {
+        "id": "java-to-kotlin-converter",
+        "name": "Java to Kotlin Converter"
+      },
+      {
+        "id": "json-to-yaml",
+        "name": "JSON ⇄ YAML Converter"
+      },
+      {
+        "id": "json-formatter",
+        "name": "JSON Formatter"
+      },
+      {
+        "id": "jsonl-converter",
+        "name": "JSON Lines Converter"
+      },
+      {
+        "id": "json-schema-builder",
+        "name": "JSON Schema Builder"
+      },
+      {
+        "id": "json-schema-validator",
+        "name": "JSON Schema Validator"
+      },
+      {
+        "id": "json-to-csv-converter",
+        "name": "JSON to CSV Converter"
+      },
+      {
+        "id": "json-to-protobuf-converter",
+        "name": "JSON to Protobuf Converter"
+      },
+      {
+        "id": "json5-validator",
+        "name": "JSON5 Validator"
+      },
+      {
+        "id": "jsonpath-evaluator",
+        "name": "JSONPath Evaluator"
+      },
+      {
+        "id": "list-deduplicator",
+        "name": "List & CSV Deduplicator"
+      },
+      {
+        "id": "local-sidereal-time",
+        "name": "Local Sidereal Time"
+      },
+      {
+        "id": "mongodb-query-builder",
+        "name": "MongoDB Query Builder"
+      },
+      {
+        "id": "moon-phase-eclipse-predictor",
+        "name": "Moon Phase & Eclipse Predictor"
+      },
+      {
+        "id": "nosql-validator",
+        "name": "NoSQL Validator"
+      },
+      {
+        "id": "number-base-converter",
+        "name": "Number Base Converter"
+      },
+      {
+        "id": "planet-aspects-retrograde",
+        "name": "Planet Aspects & Retrogrades"
+      },
+      {
+        "id": "plist-json-xml-converter",
+        "name": "Plist JSON XML Converter"
+      },
+      {
+        "id": "python-to-javascript-converter",
+        "name": "Python to JavaScript Converter"
+      },
+      {
+        "id": "soap-formatter",
+        "name": "SOAP Formatter"
+      },
+      {
+        "id": "sql-tools/builder",
+        "name": "SQL Builder"
+      },
+      {
+        "id": "sql-tools/compare",
+        "name": "SQL Compare"
+      },
+      {
+        "id": "sql-tools",
+        "name": "SQL Formatter"
+      },
+      {
+        "id": "sql-performance-analyzer",
+        "name": "SQL Performance Analyzer"
+      },
+      {
+        "id": "stored-procedure-formatter",
+        "name": "Stored Procedure Formatter"
+      },
+      {
+        "id": "temperature-converter",
+        "name": "Temperature Converter"
+      },
+      {
+        "id": "timezone-converter",
+        "name": "Time Zone Converter"
+      },
+      {
+        "id": "timestamp-converter",
+        "name": "Timestamp Converter"
+      },
+      {
+        "id": "toml-to-json-converter",
+        "name": "TOML to JSON Converter"
+      },
+      {
+        "id": "toml-validator",
+        "name": "TOML Validator"
+      },
+      {
+        "id": "twitter-card-validator",
+        "name": "Twitter Card Validator"
+      },
+      {
+        "id": "typescript-to-javascript-converter",
+        "name": "TypeScript to JavaScript Converter"
+      },
+      {
+        "id": "url-encoder-decoder",
+        "name": "URL Encoder/Decoder"
+      },
+      {
+        "id": "sql-query-builder",
+        "name": "Visual SQL Query Builder"
+      },
+      {
+        "id": "wsdl-formatter",
+        "name": "WSDL Formatter"
+      },
+      {
+        "id": "xml-formatter",
+        "name": "XML Formatter & Validator"
+      },
+      {
+        "id": "xml-to-json-converter",
+        "name": "XML to JSON Converter"
+      },
+      {
+        "id": "yaml-to-toml",
+        "name": "YAML to TOML Converter"
+      },
+      {
+        "id": "yaml-validator",
+        "name": "YAML Validator"
+      }
+    ]
+  },
+  {
+    "id": "text-analysis",
+    "name": "Text & Analysis",
+    "tools": [
+      {
+        "id": "anagram-palindrome-analyzer",
+        "name": "Anagram Solver & Palindrome"
+      },
+      {
+        "id": "binary-text-translator",
+        "name": "Binary Text Translator"
+      },
+      {
+        "id": "case-converter",
+        "name": "Case Converter & Text Formatter"
+      },
+      {
+        "id": "character-frequency",
+        "name": "Character Frequency Analyzer"
+      },
+      {
+        "id": "find-and-replace",
+        "name": "Find and Replace Text"
+      },
+      {
+        "id": "html-to-markdown",
+        "name": "HTML to Markdown Converter"
+      },
+      {
+        "id": "keyword-extractor",
+        "name": "Keyword Extractor"
+      },
+      {
+        "id": "log-parser",
+        "name": "Log Parser"
+      },
+      {
+        "id": "markdown-linter",
+        "name": "Markdown Linter"
+      },
+      {
+        "id": "markdown-to-html-converter",
+        "name": "Markdown to HTML / JSX Converter"
+      },
+      {
+        "id": "markdown-to-plain-text",
+        "name": "Markdown to Plain Text"
+      },
+      {
+        "id": "readability-score",
+        "name": "Readability Score"
+      },
+      {
+        "id": "regex-explainer",
+        "name": "Regex Explainer"
+      },
+      {
+        "id": "regexp-tester",
+        "name": "Regex Tester"
+      },
+      {
+        "id": "rot13-cipher",
+        "name": "ROT13 Cipher"
+      },
+      {
+        "id": "string-escape",
+        "name": "String Escape Utilities"
+      },
+      {
+        "id": "subtitle-tools",
+        "name": "Subtitle Shift & Cleaner"
+      },
+      {
+        "id": "text-cleaner",
+        "name": "Text Cleaner & Normalizer"
+      },
+      {
+        "id": "text-sentiment-analyzer",
+        "name": "Text Sentiment Analyzer"
+      },
+      {
+        "id": "text-statistics",
+        "name": "Text Statistics Analyzer"
+      },
+      {
+        "id": "text-summarizer",
+        "name": "Text Summarizer"
+      },
+      {
+        "id": "unicode-inspector",
+        "name": "Unicode Character Inspector"
+      },
+      {
+        "id": "unicode-font-styler",
+        "name": "Unicode Font Styler"
+      },
+      {
+        "id": "whisper-transcript-cleaner",
+        "name": "Whisper Transcript Cleaner"
+      },
+      {
+        "id": "word-counter",
+        "name": "Word Counter"
+      }
+    ]
+  },
+  {
+    "id": "generators",
+    "name": "Generators",
+    "tools": [
+      {
+        "id": "routing-number-generator",
+        "name": "ABA Routing Number Generator"
+      },
+      {
+        "id": "address-generator",
+        "name": "Address Generator"
+      },
+      {
+        "id": "ascii-text-art",
+        "name": "ASCII Text Art Generator"
+      },
+      {
+        "id": "credit-card-generator",
+        "name": "Credit Card Generator"
+      },
+      {
+        "id": "crypto-address-generator",
+        "name": "Crypto Address Generator"
+      },
+      {
+        "id": "drivers-license-generator",
+        "name": "Driver's License Generator"
+      },
+      {
+        "id": "duns-number-generator",
+        "name": "DUNS Number Generator"
+      },
+      {
+        "id": "ean13-upc-generator",
+        "name": "EAN / UPC Generator"
+      },
+      {
+        "id": "ein-generator",
+        "name": "EIN Generator"
+      },
+      {
+        "id": "email-signature-generator",
+        "name": "Email Signature Generator"
+      },
+      {
+        "id": "favicon-generator",
+        "name": "Favicon Generator"
+      },
+      {
+        "id": "gst-number-generator",
+        "name": "GST Number Generator"
+      },
+      {
+        "id": "hs-code-generator",
+        "name": "HS Code Generator"
+      },
+      {
+        "id": "http-status-code-reference",
+        "name": "HTTP Status Code Reference"
+      },
+      {
+        "id": "iban-generator",
+        "name": "IBAN Generator"
+      },
+      {
+        "id": "iban-validator",
+        "name": "IBAN Validator & Generator"
+      },
+      {
+        "id": "imei-generator",
+        "name": "IMEI Generator"
+      },
+      {
+        "id": "isin-generator",
+        "name": "ISIN Generator"
+      },
+      {
+        "id": "lei-generator",
+        "name": "LEI Generator"
+      },
+      {
+        "id": "license-generator",
+        "name": "License Generator"
+      },
+      {
+        "id": "mac-address-generator",
+        "name": "MAC Address Generator"
+      },
+      {
+        "id": "meta-tag-generator",
+        "name": "Meta Tag Generator"
+      },
+      {
+        "id": "national-identity-generator",
+        "name": "National Identity Generator"
+      },
+      {
+        "id": "phone-number-generator",
+        "name": "Phone Number Generator"
+      },
+      {
+        "id": "privacy-policy-generator",
+        "name": "Privacy Policy Generator"
+      },
+      {
+        "id": "pwa-manifest-generator",
+        "name": "PWA Manifest Generator"
+      },
+      {
+        "id": "qr-code-generator",
+        "name": "QR Code Generator"
+      },
+      {
+        "id": "robots-txt-generator",
+        "name": "Robots.txt Generator"
+      },
+      {
+        "id": "rss-feed-generator",
+        "name": "RSS Feed Generator"
+      },
+      {
+        "id": "sitemap-xml-generator",
+        "name": "Sitemap.xml Generator"
+      },
+      {
+        "id": "structured-data-generator",
+        "name": "Structured Data Generator"
+      },
+      {
+        "id": "bic-swift-generator",
+        "name": "SWIFT / BIC Generator"
+      },
+      {
+        "id": "tax-id-validator",
+        "name": "Tax ID Validator"
+      },
+      {
+        "id": "tax-number-generator",
+        "name": "Tax Number Generator"
+      },
+      {
+        "id": "terms-of-service-generator",
+        "name": "Terms of Service Generator"
+      },
+      {
+        "id": "tin-generator",
+        "name": "TIN Generator"
+      },
+      {
+        "id": "tracking-number-generator",
+        "name": "Tracking Number Generator"
+      },
+      {
+        "id": "ulid-nanoid-generator",
+        "name": "ULID & NanoID Generator"
+      },
+      {
+        "id": "uuid-generator",
+        "name": "UUID Generator"
+      },
+      {
+        "id": "vat-number-generator",
+        "name": "VAT Number Generator"
+      },
+      {
+        "id": "vat-validator",
+        "name": "VAT Validator"
+      },
+      {
+        "id": "vin-generator",
+        "name": "VIN Generator"
+      }
+    ]
+  },
+  {
+    "id": "security-tools",
+    "name": "Security Tools",
+    "tools": [
+      {
+        "id": "aes-encryption",
+        "name": "AES Encryption"
+      },
+      {
+        "id": "basic-auth-generator",
+        "name": "Basic Auth Generator"
+      },
+      {
+        "id": "bcrypt-generator",
+        "name": "Bcrypt Generator & Verifier"
+      },
+      {
+        "id": "bip39-mnemonic-generator",
+        "name": "BIP39 Mnemonic Generator"
+      },
+      {
+        "id": "checksum-calculator",
+        "name": "Checksum Calculator"
+      },
+      {
+        "id": "file-encryptor-aes",
+        "name": "Client-Side File Encryptor"
+      },
+      {
+        "id": "cors-validator",
+        "name": "CORS Header Validator"
+      },
+      {
+        "id": "cors-policy-builder",
+        "name": "CORS Policy Builder"
+      },
+      {
+        "id": "credit-card-validator",
+        "name": "Credit Card Validator"
+      },
+      {
+        "id": "csp-builder",
+        "name": "CSP Builder & Validator"
+      },
+      {
+        "id": "csr-decoder",
+        "name": "CSR Decoder"
+      },
+      {
+        "id": "email-validator",
+        "name": "Email Validator"
+      },
+      {
+        "id": "exif-metadata-stripper",
+        "name": "EXIF & Metadata Stripper"
+      },
+      {
+        "id": "gpg-symmetric-encryption",
+        "name": "GPG Symmetric Encryption"
+      },
+      {
+        "id": "hash-comparison",
+        "name": "Hash Comparison Tool"
+      },
+      {
+        "id": "hash-generator",
+        "name": "Hash Generator"
+      },
+      {
+        "id": "hmac-generator",
+        "name": "HMAC Generator"
+      },
+      {
+        "id": "http-security-header-checker",
+        "name": "HTTP Security Header Checker"
+      },
+      {
+        "id": "js-obfuscator",
+        "name": "JavaScript Obfuscator"
+      },
+      {
+        "id": "jwt-signer",
+        "name": "JWT Signer"
+      },
+      {
+        "id": "jwt-decoder",
+        "name": "JWT Token Decoder"
+      },
+      {
+        "id": "jwt-validator",
+        "name": "JWT Validator"
+      },
+      {
+        "id": "password-breach-checker",
+        "name": "Password Breach Checker"
+      },
+      {
+        "id": "password-generator",
+        "name": "Password Generator"
+      },
+      {
+        "id": "password-strength-checker",
+        "name": "Password Strength Checker"
+      },
+      {
+        "id": "pem-certificate-inspector",
+        "name": "PEM Certificate Inspector"
+      },
+      {
+        "id": "pki-key-pair-generator",
+        "name": "PKI Key Pair Generator"
+      },
+      {
+        "id": "security-headers-checker",
+        "name": "Security Headers Checker"
+      },
+      {
+        "id": "security-txt-generator",
+        "name": "Security.txt Generator"
+      },
+      {
+        "id": "burn-note-generator",
+        "name": "Self-Destructing Encrypted Note"
+      },
+      {
+        "id": "sql-injection-detector",
+        "name": "SQL Injection Detector"
+      },
+      {
+        "id": "ssh-key-pair-generator",
+        "name": "SSH Key Pair Generator"
+      },
+      {
+        "id": "ssl-chain-analyzer",
+        "name": "SSL Chain Analyzer"
+      },
+      {
+        "id": "text-encryptor",
+        "name": "Text Encryptor"
+      },
+      {
+        "id": "tls-handshake-simulator",
+        "name": "TLS Handshake Simulator"
+      },
+      {
+        "id": "token-generator",
+        "name": "Token Generator"
+      },
+      {
+        "id": "totp-generator",
+        "name": "TOTP / 2FA Generator"
+      }
+    ]
+  },
+  {
+    "id": "network-api-tools",
+    "name": "Network & API Tools",
+    "tools": [
+      {
+        "id": "api-mock-server",
+        "name": "API Mock Server"
+      },
+      {
+        "id": "bandwidth-calculator",
+        "name": "Bandwidth Calculator"
+      },
+      {
+        "id": "broken-link-checker",
+        "name": "Broken Link Checker"
+      },
+      {
+        "id": "curl-to-code-converter",
+        "name": "cURL to Code Converter"
+      },
+      {
+        "id": "dns-lookup",
+        "name": "DNS Lookup Tool"
+      },
+      {
+        "id": "dns-propagation",
+        "name": "DNS Propagation Checker"
+      },
+      {
+        "id": "email-header-analyzer",
+        "name": "Email Header Analyzer"
+      },
+      {
+        "id": "http-header-builder",
+        "name": "HTTP Header Builder"
+      },
+      {
+        "id": "http-header-parser",
+        "name": "HTTP Header Parser"
+      },
+      {
+        "id": "http-request-builder",
+        "name": "HTTP Request Builder"
+      },
+      {
+        "id": "ip-address-lookup",
+        "name": "IP Address Lookup"
+      },
+      {
+        "id": "ip-intel",
+        "name": "IP Intelligence"
+      },
+      {
+        "id": "ipv6-expander",
+        "name": "IPv6 Address Expander"
+      },
+      {
+        "id": "mx-lookup",
+        "name": "MX Record Lookup"
+      },
+      {
+        "id": "network-info",
+        "name": "Network Info"
+      },
+      {
+        "id": "ns-lookup",
+        "name": "NS Record Lookup"
+      },
+      {
+        "id": "open-graph-debugger",
+        "name": "Open Graph Debugger"
+      },
+      {
+        "id": "port-reference",
+        "name": "Port Reference"
+      },
+      {
+        "id": "port-scanner-guide",
+        "name": "Port Scanner Guide"
+      },
+      {
+        "id": "postman-collection-builder",
+        "name": "Postman Collection Builder"
+      },
+      {
+        "id": "reverse-dns-lookup",
+        "name": "Reverse DNS (PTR) Lookup"
+      },
+      {
+        "id": "ssl-certificate-checker",
+        "name": "SSL Certificate Checker"
+      },
+      {
+        "id": "ssl-inspector",
+        "name": "SSL/TLS Deep Inspector"
+      },
+      {
+        "id": "subdomain-explorer",
+        "name": "Subdomain Explorer"
+      },
+      {
+        "id": "subnet-calculator",
+        "name": "Subnet Calculator"
+      },
+      {
+        "id": "txt-lookup",
+        "name": "TXT Record & SPF/DKIM Checker"
+      },
+      {
+        "id": "url-parser",
+        "name": "URL Parser"
+      },
+      {
+        "id": "url-redirect-chain-checker",
+        "name": "URL Redirect Chain Checker"
+      },
+      {
+        "id": "user-agent-parser",
+        "name": "User Agent Parser"
+      },
+      {
+        "id": "webhook-tester",
+        "name": "Webhook Tester"
+      },
+      {
+        "id": "websocket-frame-parser",
+        "name": "WebSocket Frame Parser"
+      },
+      {
+        "id": "whois-lookup",
+        "name": "WHOIS Lookup"
+      }
+    ]
+  },
+  {
+    "id": "development-utilities",
+    "name": "Development Utilities",
+    "tools": [
+      {
+        "id": "env-secret-leak-linter",
+        "name": ".env Secret Safety Linter"
+      },
+      {
+        "id": "htaccess-generator",
+        "name": ".htaccess Generator"
+      },
+      {
+        "id": "fluid-particle-sandbox",
+        "name": "2D Fluid Dynamics & Particle Physics Sandbox"
+      },
+      {
+        "id": "function-calling-schema-generator",
+        "name": "AI Function Calling Schema Generator"
+      },
+      {
+        "id": "algorithm-arena-visualizer",
+        "name": "Algorithm Arena & Data Structure Visualizer"
+      },
+      {
+        "id": "ansible-playbook-generator",
+        "name": "Ansible Playbook Generator"
+      },
+      {
+        "id": "apache-config-generator",
+        "name": "Apache Config Generator"
+      },
+      {
+        "id": "arrow-ipc-stream-viewer",
+        "name": "Arrow IPC Stream Viewer"
+      },
+      {
+        "id": "asn1-der-decoder",
+        "name": "ASN.1 DER/BER Decoder"
+      },
+      {
+        "id": "audio-waveform-to-svg",
+        "name": "Audio Waveform to SVG"
+      },
+      {
+        "id": "avro-schema-typescript",
+        "name": "Avro Schema to TypeScript"
+      },
+      {
+        "id": "aws-architecture-diagram",
+        "name": "AWS Architecture Diagram"
+      },
+      {
+        "id": "aws-iam-least-privilege",
+        "name": "AWS IAM Least-Privilege Generator"
+      },
+      {
+        "id": "aws-pricing-calculator",
+        "name": "AWS Pricing Calculator"
+      },
+      {
+        "id": "azure-architecture-diagram",
+        "name": "Azure Architecture Diagram"
+      },
+      {
+        "id": "azure-arm-template-generator",
+        "name": "Azure ARM Template Generator"
+      },
+      {
+        "id": "btree-index-visualizer",
+        "name": "B-Tree & B+ Tree Index Visualizer"
+      },
+      {
+        "id": "backtracking-solver-lab",
+        "name": "Backtracking Solver Lab"
+      },
+      {
+        "id": "bash-posix-portability-checker",
+        "name": "Bash POSIX Portability Checker"
+      },
+      {
+        "id": "batch-regex-replace-simulator",
+        "name": "Batch Regex Replace Simulator"
+      },
+      {
+        "id": "benchmark-builder",
+        "name": "Benchmark Builder"
+      },
+      {
+        "id": "big-o-complexity-comparator",
+        "name": "Big-O Complexity Comparator"
+      },
+      {
+        "id": "birthday-paradox-hasher",
+        "name": "Birthday Paradox Hash Collision Calculator"
+      },
+      {
+        "id": "bitwise-ieee754-explorer",
+        "name": "Bitwise & IEEE-754 Explorer"
+      },
+      {
+        "id": "bloom-cuckoo-filter-simulator",
+        "name": "Bloom & Cuckoo Filter Simulator"
+      },
+      {
+        "id": "browser-compatibility-checker",
+        "name": "Browser Compatibility Checker"
+      },
+      {
+        "id": "bson-hex-converter",
+        "name": "BSON to JSON & Hex Decoder"
+      },
+      {
+        "id": "caddyfile-builder",
+        "name": "Caddyfile Builder"
+      },
+      {
+        "id": "cellular-automata-studio",
+        "name": "Cellular Automata Studio"
+      },
+      {
+        "id": "changelog-generator",
+        "name": "CHANGELOG Generator"
+      },
+      {
+        "id": "chmod-calculator",
+        "name": "Chmod Calculator"
+      },
+      {
+        "id": "chmod-symbolic-octal-matrix",
+        "name": "Chmod Octal & Symbolic Permission Matrix"
+      },
+      {
+        "id": "circleci-config-generator",
+        "name": "CircleCI Config Generator"
+      },
+      {
+        "id": "cloud-init-generator",
+        "name": "Cloud-Init Generator"
+      },
+      {
+        "id": "cloudformation-template-generator",
+        "name": "CloudFormation Template Generator"
+      },
+      {
+        "id": "code-diff-patch-generator",
+        "name": "Code Diff & Patch Generator"
+      },
+      {
+        "id": "convex-hull-visualizer",
+        "name": "Convex Hull Algorithm Visualizer"
+      },
+      {
+        "id": "cron-builder",
+        "name": "Cron Expression Builder"
+      },
+      {
+        "id": "crontab-natural-language-heatmap",
+        "name": "Crontab Natural Language & Next Runs Heatmap"
+      },
+      {
+        "id": "css-grid-named-areas-builder",
+        "name": "CSS Grid Named Areas Builder"
+      },
+      {
+        "id": "css-scroll-driven-animations",
+        "name": "CSS Scroll-Driven Animations & Timeline Builder"
+      },
+      {
+        "id": "css-view-transitions-builder",
+        "name": "CSS View Transitions API Animation Lab"
+      },
+      {
+        "id": "css-js-minifier",
+        "name": "CSS/JS Minifier"
+      },
+      {
+        "id": "csv-type-inference-profiler",
+        "name": "CSV Type & Null Ratio Profiler"
+      },
+      {
+        "id": "db-connection-string-builder",
+        "name": "Database Connection String Builder"
+      },
+      {
+        "id": "date-calculator",
+        "name": "Date Calculator"
+      },
+      {
+        "id": "design-tokens-to-code",
+        "name": "Design Tokens to Code"
+      },
+      {
+        "id": "logic-gate-circuit-simulator",
+        "name": "Digital Logic Gate & Circuit Simulator"
+      },
+      {
+        "id": "distributed-systems-simulator",
+        "name": "Distributed Systems & Network Topology Simulator"
+      },
+      {
+        "id": "docker-compose-builder",
+        "name": "Docker Compose Builder"
+      },
+      {
+        "id": "docker-run-to-compose-converter",
+        "name": "Docker Run to Compose Converter"
+      },
+      {
+        "id": "dockerfile-builder",
+        "name": "Dockerfile Builder"
+      },
+      {
+        "id": "dockerfile-layer-optimizer",
+        "name": "Dockerfile Layer Optimizer"
+      },
+      {
+        "id": "duckdb-wasm-playground",
+        "name": "DuckDB WASM Playground"
+      },
+      {
+        "id": "env-encoder",
+        "name": "Environment Variable Encoder/Decoder"
+      },
+      {
+        "id": "exif-gps-map-reverser",
+        "name": "EXIF GPS Map Reverser"
+      },
+      {
+        "id": "fft-fourier-decomposition",
+        "name": "FFT Fourier Decomposition"
+      },
+      {
+        "id": "ascii-figlet-banner-designer",
+        "name": "Figlet ASCII Typography & ANSI Banner Studio"
+      },
+      {
+        "id": "fsm-turing-simulator",
+        "name": "FSM & Turing Machine Simulator"
+      },
+      {
+        "id": "gcp-architecture-diagram",
+        "name": "GCP Architecture Diagram"
+      },
+      {
+        "id": "geojson-topojson-converter",
+        "name": "GeoJSON to TopoJSON & WKT Converter"
+      },
+      {
+        "id": "geotiff-boundary-extractor",
+        "name": "GeoTIFF Boundary Extractor"
+      },
+      {
+        "id": "git-commit-builder",
+        "name": "Git Commit Message Builder"
+      },
+      {
+        "id": "github-actions-matrix-calculator",
+        "name": "GitHub Actions Matrix & Runner Budget Calculator"
+      },
+      {
+        "id": "github-actions-yaml-generator",
+        "name": "GitHub Actions YAML Generator"
+      },
+      {
+        "id": "gitignore-generator?mode=audit",
+        "name": "Gitignore Auditor"
+      },
+      {
+        "id": "gitignore-generator",
+        "name": "Gitignore Generator"
+      },
+      {
+        "id": "gitlab-ci-generator",
+        "name": "GitLab CI Generator"
+      },
+      {
+        "id": "glsl-shader-playground",
+        "name": "GLSL Shader Art & Visual FX Playground"
+      },
+      {
+        "id": "gpio-pinout-interactive",
+        "name": "GPIO Pinout Interactive Visualizer"
+      },
+      {
+        "id": "grafana-panel-generator",
+        "name": "Grafana Panel Generator"
+      },
+      {
+        "id": "hallucination-entropy-analyzer",
+        "name": "Hallucination Entropy Analyzer"
+      },
+      {
+        "id": "helm-chart-generator",
+        "name": "Helm Chart Generator"
+      },
+      {
+        "id": "helm-values-diff-merge",
+        "name": "Helm Values Diff & Merge"
+      },
+      {
+        "id": "html-minifier",
+        "name": "HTML Minifier"
+      },
+      {
+        "id": "html-table-generator",
+        "name": "HTML Table Generator"
+      },
+      {
+        "id": "huffman-shannon-tree",
+        "name": "Huffman & Shannon-Fano Tree Visualizer"
+      },
+      {
+        "id": "hyperlink-generator",
+        "name": "Hyperlink Generator"
+      },
+      {
+        "id": "iam-policy-generator",
+        "name": "IAM Policy Generator"
+      },
+      {
+        "id": "regex-railroad-dfa-stepper",
+        "name": "Interactive RegEx Railroad & DFA/NFA Stepper"
+      },
+      {
+        "id": "ipv4-range-expander",
+        "name": "IPv4 Range Expander"
+      },
+      {
+        "id": "ipv6-ula-generator",
+        "name": "IPv6 ULA Generator"
+      },
+      {
+        "id": "javascript-ast-visualizer",
+        "name": "JavaScript AST Visualizer"
+      },
+      {
+        "id": "jenkins-pipeline-builder",
+        "name": "Jenkins Pipeline Builder"
+      },
+      {
+        "id": "json-diff",
+        "name": "JSON Diff"
+      },
+      {
+        "id": "json-schema-to-typescript",
+        "name": "JSON Schema to TypeScript"
+      },
+      {
+        "id": "json-to-go",
+        "name": "JSON to Go Struct"
+      },
+      {
+        "id": "json-to-typescript",
+        "name": "JSON to TypeScript"
+      },
+      {
+        "id": "karnaugh-map-solver",
+        "name": "Karnaugh Map Solver"
+      },
+      {
+        "id": "keycode-info",
+        "name": "Keycode Info"
+      },
+      {
+        "id": "k8s-ingress-route-visualizer",
+        "name": "Kubernetes Ingress Route Visualizer"
+      },
+      {
+        "id": "kubernetes-manifest-generator",
+        "name": "Kubernetes Manifest Generator"
+      },
+      {
+        "id": "kubernetes-resource-calculator",
+        "name": "Kubernetes Resource Calculator"
+      },
+      {
+        "id": "lighthouse-audit-summary",
+        "name": "Lighthouse Audit Summary"
+      },
+      {
+        "id": "linux-sysctl-tuner",
+        "name": "Linux Sysctl Tuner"
+      },
+      {
+        "id": "lorem-generator",
+        "name": "Lorem Ipsum Generator"
+      },
+      {
+        "id": "lottie-json-tweaker",
+        "name": "Lottie JSON Tweaker"
+      },
+      {
+        "id": "mac-address-lookup",
+        "name": "MAC Address Lookup"
+      },
+      {
+        "id": "markdown-artifacts-previewer",
+        "name": "Markdown Artifacts Previewer"
+      },
+      {
+        "id": "msgpack-cbor-inspector",
+        "name": "MessagePack & CBOR Inspector"
+      },
+      {
+        "id": "mime-detector",
+        "name": "MIME Type Detector"
+      },
+      {
+        "id": "mock-data-generator",
+        "name": "Mock Data Generator"
+      },
+      {
+        "id": "monorepo-dep-graph-viewer",
+        "name": "Monorepo Dependency Graph Viewer"
+      },
+      {
+        "id": "morse-code-translator",
+        "name": "Morse Code Translator"
+      },
+      {
+        "id": "mp4-moov-atom-inspector",
+        "name": "MP4 MOOV Atom Inspector"
+      },
+      {
+        "id": "multi-language-code-editor",
+        "name": "Multi-Language Code Editor"
+      },
+      {
+        "id": "multiple-url-opener",
+        "name": "Multiple URL Opener"
+      },
+      {
+        "id": "nginx-config-builder",
+        "name": "NGINX Config Builder"
+      },
+      {
+        "id": "nginx-reverse-proxy-wizard",
+        "name": "Nginx Reverse Proxy Wizard"
+      },
+      {
+        "id": "nomad-to-k8s-converter",
+        "name": "Nomad to Kubernetes Converter"
+      },
+      {
+        "id": "numeronym-generator",
+        "name": "Numeronym Generator"
+      },
+      {
+        "id": "offline-secret-leak-scanner",
+        "name": "Offline Secret Leak Scanner"
+      },
+      {
+        "id": "license-compatibility-matrix",
+        "name": "Open Source License Compatibility Matrix"
+      },
+      {
+        "id": "openapi-swagger-editor",
+        "name": "OpenAPI / Swagger Editor"
+      },
+      {
+        "id": "opentelemetry-collector-builder",
+        "name": "OpenTelemetry Collector Builder"
+      },
+      {
+        "id": "parquet-file-viewer",
+        "name": "Parquet File Viewer"
+      },
+      {
+        "id": "programmer-calculator",
+        "name": "Programmer Calculator"
+      },
+      {
+        "id": "prometheus-alert-rule-builder",
+        "name": "Prometheus Alert Rule Builder"
+      },
+      {
+        "id": "prompt-injection-sandbox",
+        "name": "Prompt Injection Sandbox"
+      },
+      {
+        "id": "promql-builder-validator",
+        "name": "PromQL Builder & Validator"
+      },
+      {
+        "id": "promql-query-builder",
+        "name": "PromQL Query Builder"
+      },
+      {
+        "id": "protobuf-ast-explorer",
+        "name": "Protocol Buffers AST Explorer"
+      },
+      {
+        "id": "random-port-generator",
+        "name": "Random Port Generator"
+      },
+      {
+        "id": "redis-cli-simulator",
+        "name": "Redis CLI Simulator"
+      },
+      {
+        "id": "redis-rdb-memory-estimator",
+        "name": "Redis RDB Memory Estimator"
+      },
+      {
+        "id": "regex-to-code",
+        "name": "Regex to Code Generator"
+      },
+      {
+        "id": "rss-feed-validator",
+        "name": "RSS Feed Validator"
+      },
+      {
+        "id": "s3-bucket-policy-generator",
+        "name": "S3 Bucket Policy Generator"
+      },
+      {
+        "id": "scientific-calculator",
+        "name": "Scientific & Engineering Calculator"
+      },
+      {
+        "id": "semver-calculator",
+        "name": "Semantic Version Calculator"
+      },
+      {
+        "id": "semver-range-intersection",
+        "name": "SemVer Range Intersection"
+      },
+      {
+        "id": "service-worker-generator",
+        "name": "Service Worker Generator"
+      },
+      {
+        "id": "slug-generator",
+        "name": "Slug Generator"
+      },
+      {
+        "id": "social-media-card-simulator",
+        "name": "Social Media Card Simulator"
+      },
+      {
+        "id": "sqlite-wasm-studio",
+        "name": "SQLite WASM Studio"
+      },
+      {
+        "id": "svg-displacement-filter-lab",
+        "name": "SVG Displacement Filter Lab"
+      },
+      {
+        "id": "svg-path-morpher",
+        "name": "SVG Path Morpher"
+      },
+      {
+        "id": "synthetic-data-faker",
+        "name": "Synthetic Data Faker"
+      },
+      {
+        "id": "systemd-service-builder",
+        "name": "Systemd Service & Timer Builder"
+      },
+      {
+        "id": "tailwind-to-css-variables",
+        "name": "Tailwind Theme to CSS Variables"
+      },
+      {
+        "id": "terraform-dag-diagrammer",
+        "name": "Terraform DAG Diagrammer"
+      },
+      {
+        "id": "terraform-hcl-visualizer",
+        "name": "Terraform HCL Visualizer"
+      },
+      {
+        "id": "traefik-router-generator",
+        "name": "Traefik Router Generator"
+      },
+      {
+        "id": "travis-ci-config-generator",
+        "name": "Travis CI Config Generator"
+      },
+      {
+        "id": "tsv-matrix-transposer",
+        "name": "TSV Matrix Transposer & Normalizer"
+      },
+      {
+        "id": "uart-baud-rate-calculator",
+        "name": "UART Baud Rate Error & Timing Calculator"
+      },
+      {
+        "id": "unit-converter",
+        "name": "Unit Converter"
+      },
+      {
+        "id": "unix-pipe-builder",
+        "name": "Unix Pipe Builder"
+      },
+      {
+        "id": "vector-similarity-calculator",
+        "name": "Vector Similarity Calculator"
+      },
+      {
+        "id": "font-subsetter-glyph-stripper",
+        "name": "Web Font Subsetter & Glyph Stripper"
+      },
+      {
+        "id": "web-vitals-budget-simulator",
+        "name": "Web Vitals Budget Simulator"
+      },
+      {
+        "id": "web-vitals-calculator",
+        "name": "Web Vitals Calculator"
+      },
+      {
+        "id": "wireguard-config-generator",
+        "name": "WireGuard Config Generator"
+      }
+    ]
+  },
+  {
+    "id": "visual-tools",
+    "name": "Visual Tools",
+    "tools": [
+      {
+        "id": "apca-contrast-calculator",
+        "name": "APCA Contrast Calculator"
+      },
+      {
+        "id": "barcode-generator",
+        "name": "Barcode Generator"
+      },
+      {
+        "id": "base64-image-encoder",
+        "name": "Base64 Image Encoder"
+      },
+      {
+        "id": "css-container-queries-lab",
+        "name": "CSS Container Queries Lab"
+      },
+      {
+        "id": "exif-viewer",
+        "name": "EXIF Viewer & Cleaner"
+      },
+      {
+        "id": "favicon-pack-generator",
+        "name": "Favicon Pack Generator"
+      },
+      {
+        "id": "image-compressor",
+        "name": "Image Compressor"
+      },
+      {
+        "id": "image-format-converter",
+        "name": "Image Format Converter"
+      },
+      {
+        "id": "image-to-ascii",
+        "name": "Image to ASCII Converter"
+      },
+      {
+        "id": "image-to-pdf",
+        "name": "Image to PDF Converter"
+      },
+      {
+        "id": "image-watermarker",
+        "name": "Image Watermarker"
+      },
+      {
+        "id": "markdown-previewer",
+        "name": "Markdown Previewer"
+      },
+      {
+        "id": "markdown-table-generator",
+        "name": "Markdown Table Generator"
+      },
+      {
+        "id": "natal-chart",
+        "name": "Natal Chart"
+      },
+      {
+        "id": "image-to-text-ocr",
+        "name": "OCR — Image to Text Extractor"
+      },
+      {
+        "id": "pdf-signer",
+        "name": "PDF Signer & Annotator"
+      },
+      {
+        "id": "pdf-to-image",
+        "name": "PDF to Image Converter"
+      },
+      {
+        "id": "pdf-tools",
+        "name": "PDF Tools"
+      },
+      {
+        "id": "png-to-jpg",
+        "name": "PNG to JPG Converter"
+      },
+      {
+        "id": "qr-code-reader",
+        "name": "QR Code Reader"
+      },
+      {
+        "id": "responsive-tester",
+        "name": "Responsive Tester"
+      },
+      {
+        "id": "sidereal-tropical-converter",
+        "name": "Sidereal / Tropical Converter"
+      },
+      {
+        "id": "svg-optimizer",
+        "name": "SVG Optimizer"
+      },
+      {
+        "id": "svg-previewer",
+        "name": "SVG Previewer"
+      },
+      {
+        "id": "svg-to-png-converter",
+        "name": "SVG to PNG Converter"
+      },
+      {
+        "id": "webp-to-png",
+        "name": "WebP to PNG Converter"
+      },
+      {
+        "id": "world-map",
+        "name": "World Map"
+      }
+    ]
+  },
+  {
+    "id": "creator-business-tools",
+    "name": "Creator & Business Tools",
+    "tools": [
+      {
+        "id": "code-to-image",
+        "name": "Code Snippet to Image"
+      },
+      {
+        "id": "creator-tax-form-guide",
+        "name": "Creator Tax Form Guide"
+      },
+      {
+        "id": "invoice-generator",
+        "name": "Freelance Invoice Generator"
+      },
+      {
+        "id": "golden-blue-hour",
+        "name": "Golden & Blue Hour"
+      },
+      {
+        "id": "hourly-rate-calculator",
+        "name": "Hourly Rate Calculator"
+      },
+      {
+        "id": "social-frame-studio",
+        "name": "Social Frame Studio"
+      },
+      {
+        "id": "utm-builder",
+        "name": "UTM Link Builder"
+      },
+      {
+        "id": "youtube-seo-builder",
+        "name": "YouTube SEO Builder"
+      },
+      {
+        "id": "youtube-thumbnail",
+        "name": "YouTube Thumbnail Downloader"
+      }
+    ]
+  },
+  {
+    "id": "media-audio",
+    "name": "Media & Audio",
+    "tools": [
+      {
+        "id": "audio-trimmer",
+        "name": "Audio Trimmer & Cutter"
+      },
+      {
+        "id": "canvas-webm-recorder",
+        "name": "Canvas WebM / Animated GIF Exporter"
+      },
+      {
+        "id": "screen-recorder",
+        "name": "Screen & WebCam Recorder"
+      },
+      {
+        "id": "video-to-gif",
+        "name": "Video to GIF Maker"
+      },
+      {
+        "id": "voice-dictation",
+        "name": "Voice Dictation"
+      }
+    ]
+  },
+  {
+    "id": "sound-tools",
+    "name": "Sound Tools",
+    "tools": [
+      {
+        "id": "ambient-noise-generator",
+        "name": "Ambient Noise Generator"
+      },
+      {
+        "id": "audio-bpm-tap-detector",
+        "name": "Audio BPM Tap & Tempo Detector"
+      },
+      {
+        "id": "audio-db-level-converter",
+        "name": "Audio dBFS, dBu, dBV & Voltage Converter"
+      },
+      {
+        "id": "binaural-noise-synthesizer",
+        "name": "Binaural Noise Synthesizer"
+      },
+      {
+        "id": "metronome-instrument-tuner",
+        "name": "Metronome & Instrument Tuner"
+      },
+      {
+        "id": "morse-spectrogram-decoder",
+        "name": "Morse Spectrogram Decoder"
+      },
+      {
+        "id": "text-to-speech",
+        "name": "Text to Speech (TTS)"
+      },
+      {
+        "id": "audio-voice-recorder",
+        "name": "Voice & Audio Recorder"
+      },
+      {
+        "id": "web-audio-synth-studio",
+        "name": "Web Audio Modular Synthesizer & Sound FX Generator"
+      }
+    ]
+  },
+  {
+    "id": "financial-tools",
+    "name": "Financial Tools",
+    "tools": [
+      {
+        "id": "bill-tracker",
+        "name": "Bill Tracker"
+      },
+      {
+        "id": "compound-interest-calculator",
+        "name": "Compound Interest Calculator"
+      },
+      {
+        "id": "currency-converter",
+        "name": "Currency Converter"
+      },
+      {
+        "id": "discount-vat-calculator",
+        "name": "Discount & VAT Calculator"
+      },
+      {
+        "id": "fire-retirement-calculator",
+        "name": "FIRE & Retirement Calculator"
+      },
+      {
+        "id": "loan-mortgage-calculator",
+        "name": "Loan & Mortgage Calculator"
+      },
+      {
+        "id": "percentage-calculator",
+        "name": "Percentage Calculator"
+      },
+      {
+        "id": "salary-hourly-converter",
+        "name": "Salary to Hourly Converter"
+      },
+      {
+        "id": "savings-goal-calculator",
+        "name": "Savings Goal & Sinking Fund"
+      },
+      {
+        "id": "subscription-expense-tracker",
+        "name": "Subscription Expense Tracker"
+      },
+      {
+        "id": "tip-bill-splitter",
+        "name": "Tip & Bill Splitter"
+      },
+      {
+        "id": "sales-tax-calculator-us",
+        "name": "US Sales Tax Calculator"
+      }
+    ]
+  },
+  {
+    "id": "productivity-tools",
+    "name": "Productivity Tools",
+    "tools": [
+      {
+        "id": "bmi-tdee-calculator",
+        "name": "BMI & TDEE Calculator"
+      },
+      {
+        "id": "habit-streak-tracker",
+        "name": "Habit & Streak Tracker"
+      },
+      {
+        "id": "pomodoro-timer",
+        "name": "Pomodoro Focus Timer"
+      },
+      {
+        "id": "typing-speed-test",
+        "name": "Typing Speed Test"
+      }
+    ]
+  },
+  {
+    "id": "device-sensors",
+    "name": "Device & Sensors",
+    "tools": [
+      {
+        "id": "device-information",
+        "name": "Device Information"
+      },
+      {
+        "id": "bubble-level",
+        "name": "Digital Bubble Level"
+      },
+      {
+        "id": "digital-compass",
+        "name": "Digital Compass"
+      },
+      {
+        "id": "flashlight",
+        "name": "Flashlight & Signal Beacon"
+      },
+      {
+        "id": "gps-speedometer",
+        "name": "GPS Speedometer"
+      },
+      {
+        "id": "i2c-spi-timing-diagram",
+        "name": "I2C & SPI Bus Timing Diagram"
+      },
+      {
+        "id": "iot-battery-life-estimator",
+        "name": "IoT Pil Ömrü Tahminleyici"
+      },
+      {
+        "id": "pwm-duty-cycle-motor",
+        "name": "PWM Duty Cycle & Motor RPM Calculator"
+      },
+      {
+        "id": "resistor-smd-calculator",
+        "name": "Resistor Color Code & SMD Decoder"
+      },
+      {
+        "id": "screen-ruler",
+        "name": "Screen & Physical Ruler"
+      },
+      {
+        "id": "smart-mirror",
+        "name": "Smart Mirror & Ring Light"
+      },
+      {
+        "id": "decibel-meter",
+        "name": "Sound & Decibel Meter"
+      }
+    ]
+  },
+  {
+    "id": "education-science",
+    "name": "Education & Science",
+    "tools": [
+      {
+        "id": "matrix-affine-transform-3d",
+        "name": "3D Affine Transform Visualizer"
+      },
+      {
+        "id": "eta-calculator",
+        "name": "ETA Calculator"
+      },
+      {
+        "id": "exam-section-timer",
+        "name": "Exam & Section Timer"
+      },
+      {
+        "id": "flashcard-study-deck",
+        "name": "Flashcards & Spaced Repetition"
+      },
+      {
+        "id": "gpa-grade-calculator",
+        "name": "GPA & Grade Calculator"
+      },
+      {
+        "id": "graph-shortest-path-lab",
+        "name": "Graph Shortest Path Lab"
+      },
+      {
+        "id": "interactive-periodic-table",
+        "name": "Interactive Periodic Table"
+      },
+      {
+        "id": "perlin-simplex-terrain",
+        "name": "Perlin & Simplex Terrain Generator"
+      },
+      {
+        "id": "rf-antenna-wavelength",
+        "name": "RF Wavelength & Dipole Antenna Calculator"
+      },
+      {
+        "id": "roman-numeral-converter",
+        "name": "Roman Numeral Converter"
+      },
+      {
+        "id": "wolfram-1d-automata",
+        "name": "Wolfram 1D Cellular Automata"
+      }
+    ]
+  },
+  {
+    "id": "daily-lifestyle",
+    "name": "Daily & Lifestyle",
+    "tools": [
+      {
+        "id": "age-calculator",
+        "name": "Age Calculator"
+      },
+      {
+        "id": "clothing-shoe-size-converter",
+        "name": "Clothing & Shoe Size Chart"
+      },
+      {
+        "id": "emoji-picker",
+        "name": "Emoji Picker"
+      },
+      {
+        "id": "fuel-cost-trip-calculator",
+        "name": "Fuel Cost & Trip Calculator"
+      },
+      {
+        "id": "human-design-bodygraph",
+        "name": "Human Design BodyGraph"
+      },
+      {
+        "id": "kitchen-unit-converter",
+        "name": "Kitchen & Recipe Converter"
+      },
+      {
+        "id": "laundry-care-decoder",
+        "name": "Laundry Care Symbols Guide"
+      },
+      {
+        "id": "life-in-weeks",
+        "name": "Life in Weeks"
+      },
+      {
+        "id": "moon-gardening-calendar",
+        "name": "Moon Gardening Calendar"
+      },
+      {
+        "id": "numerology-analyzer",
+        "name": "Numerology Analyzer"
+      },
+      {
+        "id": "visa-passport-validity-checker",
+        "name": "Passport & Visa 6-Month Rule"
+      }
+    ]
+  },
+  {
+    "id": "health-lifestyle",
+    "name": "Health & Lifestyle",
+    "tools": [
+      {
+        "id": "biorhythm-calculator",
+        "name": "Biorhythm Calculator"
+      },
+      {
+        "id": "bmr-tdee-calculator",
+        "name": "BMR & TDEE Calculator"
+      },
+      {
+        "id": "intermittent-fasting-planner",
+        "name": "Intermittent Fasting Planner"
+      },
+      {
+        "id": "pill-tracker",
+        "name": "Pill Tracker"
+      },
+      {
+        "id": "pregnancy-due-date-calculator",
+        "name": "Pregnancy Due Date Calculator"
+      },
+      {
+        "id": "sleep-cycle-calculator",
+        "name": "Sleep Cycle & REM Calculator"
+      }
+    ]
+  },
+  {
+    "id": "randomness-games",
+    "name": "Randomness & Games",
+    "tools": [
+      {
+        "id": "dice-roller-coin-flip",
+        "name": "3D Dice Roller & Coin Flip"
+      },
+      {
+        "id": "decision-wheel",
+        "name": "Decision Wheel & Picker"
+      },
+      {
+        "id": "random-number-picker",
+        "name": "Random Number & Raffle Picker"
+      }
+    ]
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "tools": [
+      {
+        "id": "2048",
+        "name": "2048"
+      },
+      {
+        "id": "memory-match",
+        "name": "Memory Match"
+      },
+      {
+        "id": "minesweeper",
+        "name": "Minesweeper"
+      },
+      {
+        "id": "snake",
+        "name": "Snake"
+      },
+      {
+        "id": "tetris",
+        "name": "Tetris"
+      }
+    ]
+  },
+  {
+    "id": "time-productivity",
+    "name": "Time & Productivity",
+    "tools": [
+      {
+        "id": "fullscreen-countdown-timer",
+        "name": "Fullscreen Countdown Timer"
+      },
+      {
+        "id": "minutes-to-decimal-converter",
+        "name": "Minutes to Decimal Converter"
+      },
+      {
+        "id": "stopwatch-lap-timer",
+        "name": "Precision Stopwatch"
+      },
+      {
+        "id": "time-calculator",
+        "name": "Time Calculator"
+      }
+    ]
+  },
+  {
+    "id": "ai-tools",
+    "name": "AI Tools",
+    "tools": [
+      {
+        "id": "agent-tool-flowchart-builder",
+        "name": "Agent Tool Flowchart Builder"
+      },
+      {
+        "id": "ai-agent-memory-simulator",
+        "name": "AI Agent Memory & Buffer Simulator"
+      },
+      {
+        "id": "ai-sdk-generator",
+        "name": "AI API Client SDK Generator"
+      },
+      {
+        "id": "ai-code-explainer",
+        "name": "AI Code Explainer"
+      },
+      {
+        "id": "ai-code-security-auditor",
+        "name": "AI Code Security Auditor"
+      },
+      {
+        "id": "ai-code-translator",
+        "name": "AI Code Translator"
+      },
+      {
+        "id": "ai-commit-message-generator",
+        "name": "AI Commit Message Generator"
+      },
+      {
+        "id": "ai-db-schema-architect",
+        "name": "AI Database Schema & ER Architect"
+      },
+      {
+        "id": "ai-design-pattern-refactor",
+        "name": "AI Design Pattern Refactor"
+      },
+      {
+        "id": "ai-documentation-generator",
+        "name": "AI Documentation Generator"
+      },
+      {
+        "id": "ai-e2e-test-builder",
+        "name": "AI E2E Test Builder"
+      },
+      {
+        "id": "ai-type-inferencer",
+        "name": "AI JSON Type Inferencer"
+      },
+      {
+        "id": "ai-mermaid-diagram-generator",
+        "name": "AI Mermaid Diagram Generator"
+      },
+      {
+        "id": "ai-regex-generator",
+        "name": "AI Regex Generator"
+      },
+      {
+        "id": "ai-shell-command-builder",
+        "name": "AI Shell Command Builder"
+      },
+      {
+        "id": "ai-sql-query-generator",
+        "name": "AI SQL Query Generator"
+      },
+      {
+        "id": "ai-token-boundary-colorizer",
+        "name": "AI Token Boundary Colorizer"
+      },
+      {
+        "id": "ai-unit-test-generator",
+        "name": "AI Unit Test & Mock Generator"
+      },
+      {
+        "id": "ai-vision-ui-to-code",
+        "name": "AI Vision UI to Code"
+      },
+      {
+        "id": "context-assembler",
+        "name": "Context Assembler"
+      },
+      {
+        "id": "finetune-jsonl-validator",
+        "name": "Fine-tune JSONL Validator"
+      },
+      {
+        "id": "llm-benchmarks",
+        "name": "LLM Benchmarks"
+      },
+      {
+        "id": "llm-guardrails-builder",
+        "name": "LLM Guardrails & PII Redactor"
+      },
+      {
+        "id": "llm-cost-budget-forecaster",
+        "name": "LLM Maliyet ve Bütçe Tahminleyici"
+      },
+      {
+        "id": "llm-token-counter",
+        "name": "LLM Token Counter"
+      },
+      {
+        "id": "needle-in-haystack-generator",
+        "name": "Needle-in-a-Haystack Generator"
+      },
+      {
+        "id": "prompt-diff-comparator",
+        "name": "Prompt Diff Comparator"
+      },
+      {
+        "id": "prompt-template-builder",
+        "name": "Prompt Template Builder"
+      },
+      {
+        "id": "rag-chunking-visualizer",
+        "name": "RAG Chunking & Overlap Visualizer"
+      },
+      {
+        "id": "text-chunker",
+        "name": "RAG Text Chunker"
+      },
+      {
+        "id": "ssml-markup-builder",
+        "name": "SSML Markup Builder"
+      },
+      {
+        "id": "system-prompt-compressor",
+        "name": "System Prompt Compressor"
+      },
+      {
+        "id": "token-cost-calculator",
+        "name": "Token Cost Calculator"
+      }
+    ]
+  },
+  {
+    "id": "code-playgrounds",
+    "name": "Code Playgrounds",
+    "tools": [
+      {
+        "id": "dart-playground",
+        "name": "Dart Playground"
+      },
+      {
+        "id": "html-editor",
+        "name": "HTML Editor"
+      },
+      {
+        "id": "javascript-playground",
+        "name": "JavaScript Playground"
+      },
+      {
+        "id": "ruby-playground",
+        "name": "Ruby Playground"
+      },
+      {
+        "id": "typescript-playground",
+        "name": "TypeScript Playground"
+      }
+    ]
+  }
+]

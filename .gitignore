@@ -1,0 +1,33 @@
+# Installed dependencies and package caches
+node_modules/
+.npm/
+.pnpm-store/
+
+# Development caches and test output
+.vite/
+.vite-temp/
+.cache/
+*.tsbuildinfo
+.eslintcache
+coverage/
+playwright-report/
+test-results/
+
+# Local environment overrides (keep the example template)
+.env
+.env.*
+!.env.example
+
+# Logs, editor settings and operating system files
+*.log
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Downloaded project archive
+DevTools-React-PC.zip
+
+# Keep dist/ for Start-DevTools.cmd and package-lock.json for npm ci.

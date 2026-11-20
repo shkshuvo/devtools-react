@@ -1,0 +1,54 @@
+{
+  "name": "devtools-react",
+  "version": "1.0.0",
+  "description": "A modular React developer toolbox with bundled local workspaces and an online directory.",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node serve.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@fontsource-variable/geist": "^5.3.0",
+    "@fontsource-variable/geist-mono": "^5.3.0",
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "bcryptjs": "^3.0.3",
+    "colorjs.io": "^0.7.1",
+    "diff": "^9.0.0",
+    "dompurify": "^3.4.18",
+    "fast-xml-parser": "^5.12.1",
+    "iban": "^0.0.14",
+    "ipaddr.js": "^2.5.0",
+    "jsbarcode": "^3.12.3",
+    "json5": "^2.2.3",
+    "jsvat": "^2.5.4",
+    "lucide-react": "^1.77.0",
+    "marked": "^18.2.1",
+    "mathjs": "^15.2.0",
+    "nanoid": "^6.0.2",
+    "papaparse": "^5.7.1",
+    "prettier": "^3.10.1",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "semver": "^7.8.6",
+    "smol-toml": "^1.9.1",
+    "sql-formatter": "^15.9.1",
+    "suncalc": "^1.9.0",
+    "typescript": "^5.9.3",
+    "ulid": "^3.0.2",
+    "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
+    "vite": "^8.3.8"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  }
+}

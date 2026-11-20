@@ -1,0 +1,76 @@
+import {
+  Palette,
+  PencilRuler,
+  Braces,
+  BookOpen,
+  Fingerprint,
+  ShieldCheck,
+  Globe,
+  Wrench,
+  Layers,
+  BriefcaseBusiness,
+  AudioLines,
+  Music,
+  Landmark,
+  Timer,
+  Smartphone,
+  FlaskConical,
+  Sun,
+  Activity,
+  Dices,
+  Gamepad2,
+  Bot,
+  CodeXml,
+  ScanFace,
+  FileBadge,
+  IdCard,
+  BadgeCheck,
+  Ruler,
+  Mic,
+  Compass,
+  Star,
+} from "lucide-react";
+const groups = [
+  Palette,
+  PencilRuler,
+  Braces,
+  BookOpen,
+  Fingerprint,
+  ShieldCheck,
+  Globe,
+  Wrench,
+  Layers,
+  BriefcaseBusiness,
+  AudioLines,
+  Music,
+  Landmark,
+  Timer,
+  Smartphone,
+  FlaskConical,
+  Sun,
+  Activity,
+  Dices,
+  Gamepad2,
+  Timer,
+  Bot,
+  CodeXml,
+];
+const featured = [
+  Fingerprint,
+  FileBadge,
+  Landmark,
+  ScanFace,
+  IdCard,
+  BadgeCheck,
+  Compass,
+  Ruler,
+  Mic,
+];
+export function CategoryIcon({ index, ...props }) {
+  const Icon = groups[index] || Star;
+  return <Icon {...props} />;
+}
+export function FeaturedIcon({ index, ...props }) {
+  const Icon = featured[index] || Star;
+  return <Icon {...props} />;
+}
